@@ -1,3 +1,3 @@
 # Starbucks Survey EDA
-### Practice Python
-kaggle datasets download -d ihormuliar/starbucks-customer-data
+### python
+datasets URL : https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data
