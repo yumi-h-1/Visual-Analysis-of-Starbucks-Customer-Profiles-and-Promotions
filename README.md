@@ -5,7 +5,7 @@ This project aims to visualise customer data in relation to promotions using Tab
 ## Project Structure
 - **Data**: Raw data is stored in the `data/` folder.
 - **Scripts**: All Python scripts for data cleaning in the `scripts/` folder.
-- **Results**: Visualizations can be found in the `results/figures` folder.
+- **Results**: Visualisations can be found in the `results/figures` folder.
 
 ## Methodology
 - **Data Preprocessing**: Cleaned the dataset by handling missing values and splitting dictionary keys and values for easier visualisation in Tableau.
