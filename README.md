@@ -4,6 +4,7 @@ This project aims to visualise customer data in relation to promotions using Tab
 
 ## Project Structure
 - **Data**: Raw data is stored in the `data/` folder.
+- **Notebooks**: The notebook for data cleaning is located in the `notebooks/` folder.
 - **Scripts**: All Python scripts for data cleaning in the `scripts/` folder.
 - **Results**: Visualisations can be found in the `results/figures` folder.
 
