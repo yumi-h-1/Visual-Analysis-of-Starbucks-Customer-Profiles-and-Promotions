@@ -17,7 +17,7 @@ This project aims to visualise customer data in relation to promotions using Tab
 - **Minimum Spend Requirements**: Discount offers appear to have larger minimum spend requirements compared to BOGO offers.
 
 ## Results
-![Starbucks Customer Data EDA Dashboard](results/figures/Dashboard.png)
+
 
 ## Used Dataset
 - **URL** : https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data
