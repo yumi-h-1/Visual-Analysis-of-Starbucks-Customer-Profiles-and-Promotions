@@ -16,8 +16,8 @@ This project aims to visualise customer data in relation to promotions using Tab
 - **Offer Types**:Both BOGO and discount offers appear to have similar distribution levels, each around 50-60K offers. Whilst discount offers seem to be more popular than BOGO offers, the men completed the promotional offers more than the women.
 - **Minimum Spend Requirements**: Discount offers appear to have larger minimum spend requirements compared to BOGO offers.
 
-## Results
-
+## Dashboard
+![Starbucks Customer Data EDA Dashboard](results/figures/Dashboard.png)
 
 ## Used Dataset
 - **URL** : https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data
