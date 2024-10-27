@@ -13,7 +13,7 @@ This project aims to visualise customer data in relation to promotions using Tab
 - **Exploratory Data Analysis**: Performed visual analysis on customer demographics and promotions to understand customer behaviours and promotional activities.
 
 ## Key Findings
-- **Offer Types**:Both BOGO and discount offers appear to have similar distribution levels, each around 50-60K offers. Whilst the number of men is less than the number of women, 
+- **Offer Types**:Both BOGO and discount offers appear to have similar distribution levels, each around 50-60K offers. Whilst discount offers seem to be more popular than BOGO offers, the men completed the promotional offers more than the women.
 - **Minimum Spend Requirements**: Discount offers appear to have larger minimum spend requirements compared to BOGO offers.
 
 ## Results
