@@ -14,9 +14,10 @@ This project aims to visualise customer data in relation to promotions using Tab
 
 ## Key Findings
 - 
-- 
+-
+
 ## Results
-![Member Count by Gender Over the Years](./results/figures/Member Count by Gender Over the Years.png)
+![Starbucks Customer Data EDA Dashboard](results/figures/Dashboard.png)
 
 ## Used Dataset
 - **URL** : https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data
