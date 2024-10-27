@@ -2,7 +2,7 @@
 ## Project Overview
 This project aims to visualise customer data in relation to promotions using Tableau. By analysing the relationship between customer behaviours and promotional activities, the company can gain insights to implement more targeted and effective marketing strategies.
 
-## Project Structure
+## Project Files
 - **Data**: Cleaned data is stored in the `data/` and raw data is in the `data/raw` folder.
 - **Notebooks**: The notebook for data cleaning is located in the `notebooks/` folder.
 - **Scripts**: All Python scripts for data cleaning in the `scripts/` folder.
