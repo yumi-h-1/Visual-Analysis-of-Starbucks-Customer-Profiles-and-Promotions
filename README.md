@@ -1,4 +1,4 @@
-# Starbucks Customer Data EDA
+# Visual Analysis of Starbucks Customer Profiles and Promotions
 ## Project Overview
 This project aims to visualise customer data in relation to promotions using Tableau. By analysing the relationship between customer behaviours and promotional activities, the company can gain insights to implement more targeted and effective marketing strategies.
 
